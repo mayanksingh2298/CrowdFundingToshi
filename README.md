@@ -23,12 +23,9 @@ docker-compose up
 ```
 
 ```
-Open the Toshi dev app on your mobile
+Open the Toshi dev app on your mobile and search for "archerbot" or go to scan, and scan this QR code
 ```
 
-```
-Go to scan, and scan this QR code
-```
 <img src="https://raw.githubusercontent.com/mayanksingh2298/CrowdFundingToshi/master/archerbot.png">
 
 Voila! You are ready to use the app

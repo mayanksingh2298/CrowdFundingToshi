@@ -27,7 +27,8 @@ Open the Toshi dev app on your mobile
 ```
 
 ```
-Go to scan, and scan the QR code in archerbot.png
+Go to scan, and scan this QR code
+<img src="https://raw.githubusercontent.com/mayanksingh2298/CrowdFundingToshi/master/archerbot.png">
 ```
 Voila! You are ready to use the app
 

@@ -7,7 +7,7 @@ services:
       - postgres
     environment: &environment
       - TOKEN_APP_SEED=connect chunk salt candy term lemon auto fashion off mutual found post
-      - TOKEN_APP_USERNAME=archerbot
+      - TOKEN_APP_USERNAME=archer
       - TOKEN_APP_NAME=
       - TOKEN_APP_AVATAR=
       - REDIS_URL=redis://h:rlcMWNrxXgqS0xM8aWCYuE0R@redis:6379

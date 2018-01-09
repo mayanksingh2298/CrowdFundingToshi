@@ -7,6 +7,7 @@ services:
       - postgres
     environment: &environment
       - TOKEN_APP_SEED=connect chunk salt candy term lemon auto fashion off mutual found post
+      - TOKEN_APP_SEEDa=about isolate nature already boring excite decline million nation fog slam online
       - TOKEN_APP_USERNAME=archer
       - TOKEN_APP_NAME=
       - TOKEN_APP_AVATAR=
